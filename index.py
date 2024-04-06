@@ -6,7 +6,7 @@ import random
 
 client = Client()
 AUTHOR_TAG = 'cfxtimes'
-AUTHOR_PASSWORD = 'oatmeal'
+AUTHOR_PASSWORD = 'kasha'
 DELAY = 10
 
 HASHTAG_PROB = 0.3
